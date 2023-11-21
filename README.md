@@ -7,3 +7,5 @@ Date: 2023-11-14
 - Eric Nguyen
 - Ethan Lotz
 - Timothy Subroto
+- Meg Prescott
+- 
