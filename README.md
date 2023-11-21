@@ -2,3 +2,6 @@
 
 Name: Eric Nguyen
 Date: 2023-11-14
+
+## Collaborators: ##
+- Eric Nguyen
