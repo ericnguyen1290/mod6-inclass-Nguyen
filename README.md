@@ -6,3 +6,4 @@ Date: 2023-11-14
 ## Collaborators: ##
 - Eric Nguyen
 - Ethan Lotz
+- Timothy Subroto
