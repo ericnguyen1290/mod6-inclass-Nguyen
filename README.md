@@ -8,4 +8,4 @@ Date: 2023-11-14
 - Ethan Lotz
 - Timothy Subroto
 - Meg Prescott
-- 
+- Bren Giles
